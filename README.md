@@ -1,9 +1,9 @@
 # Design Pemrograman Berorientasi Objek
-## Praktikum
 Repositori ini dibuat untuk memenuhi tugas latihan dari Mata Kuliah Desain Pemrograman Berorientasi Objek di Semester 4 pada Program Studi Ilmu Komputer Universitas Pendidikan Indonesia. Di dalamnya terdapat beberapa implementasi kelas dalam bahasa PHP, C++, Python, dan Java.
 > Muhammad Zakaria Saputra; 2007993; Ilmu Komputer-C1-2020; Universitas Pendidikan Indoneisa
-## Project Description
-Pada latihan kali ini terdapat penerapan dari materi "Inheritance" di mana pada project kali ini terdapat tiga kelas yaitu kelas Product, Hardware, dan Memory. Product merupakan parent dari Hardware dan Hardware merupakan parent dari Memory. Berikut atribut dari setiap kelas:
+
+### Project Description
+Pada latihan kali ini terdapat penerapan dari materi "Inheritance" di mana pada project kali ini terdapat tiga kelas yaitu kelas Product, Hardware, dan Memory. Product merupakan parent dari Hardware dan Hardware merupakan parent dari Memory. Berikut atribut dari masing-masing kelas:
 * Product
   * idProduct
   * price
@@ -14,7 +14,39 @@ Pada latihan kali ini terdapat penerapan dari materi "Inheritance" di mana pada 
   * frequency
   * memorySize
   * supportsCuda
-## Result
+
+### Tools
+- [XAMPP](https://www.apachefriends.org/download.html) : PHP 
+- [JDK](https://www.oracle.com/java/technologies/downloads/) : Java
+- [Python](https://www.python.org/) : Python
+- [MinGW](https://sourceforge.net/projects/mingw-w64/) : C++
+- Browser
+- Text Editor
+
+### Usage
+#### C++
+```
+g++ -c *.cpp
+g++ main.cpp -o [nama-file].exe
+```
+
+#### Java
+```
+javac *.java
+java main
+```
+
+#### PHP
+- Pindahkan folder berisi kode PHP ke dalam folder htdocs di directory XAMPP
+- Jalankan web server Apache pada XAMPP
+- Masukan alamat berikut pada browser 
+  > localhost/[nama-folder]/[nama-file].php
+
+#### Python
+```
+py [nama-file].py
+```
+## Results
 1. Java</br>
 ![SS Java](https://github.com/zakariasaputra/-LATIHAN2DPBO2022/blob/dd77af5fad731e7d9fe63c6bbd6b9221f3fce430/Latihan2/Screenshot%20Hasil/Java.png)
 2. C++</br>
