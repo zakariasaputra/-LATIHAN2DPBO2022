@@ -15,5 +15,6 @@ Pada latihan kali ini terdapat penerapan dari materi "Inheritance" di mana pada 
   * memorySize
   * supportsCuda
 ## Result
-1. Java
-![SS Java](https://www.petanikode.com/img/markdown/markdown-vscode.png)
+1. Java 
+
+![SS Java](https://github.com/zakariasaputra/-LATIHAN2DPBO2022/blob/ed661d015cac3f21c8b5d151b30cd399d23709c1/Java.png)
