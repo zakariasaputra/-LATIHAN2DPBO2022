@@ -29,7 +29,7 @@ Pada latihan kali ini terdapat penerapan dari materi "Inheritance" di mana pada 
 * Eksekusi Perintah berikut:
 ```
 g++ -c *.cpp
-g++ main.cpp -o [nama-file].exe
+g++ main.cpp -o [name].exe
 ```
 
 #### Java
@@ -50,7 +50,7 @@ java main
 * Masuk ke directory project dalam CMD
 * Eksekusi Perintah berikut:
 ```
-py [nama-file].py
+py [name].py
 ```
 ### Results
 1. Java</br>
@@ -61,6 +61,4 @@ py [nama-file].py
 ![SS PHP](https://github.com/zakariasaputra/-LATIHAN2DPBO2022/blob/dd77af5fad731e7d9fe63c6bbd6b9221f3fce430/Latihan2/Screenshot%20Hasil/PHP.png)
 4. Python</br>
 ![SS Py](https://github.com/zakariasaputra/-LATIHAN2DPBO2022/blob/dd77af5fad731e7d9fe63c6bbd6b9221f3fce430/Latihan2/Screenshot%20Hasil/Python.png)
-
-### Terima Kasih ^_^
 
