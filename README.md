@@ -15,6 +15,12 @@ Pada latihan kali ini terdapat penerapan dari materi "Inheritance" di mana pada 
   * memorySize
   * supportsCuda
 ## Result
-1. Java 
+1. Java</br>
+![SS Java](https://github.com/zakariasaputra/-LATIHAN2DPBO2022/blob/dd77af5fad731e7d9fe63c6bbd6b9221f3fce430/Latihan2/Screenshot%20Hasil/Java.png)
+2. C++</br>
+![SS C++](https://github.com/zakariasaputra/-LATIHAN2DPBO2022/blob/dd77af5fad731e7d9fe63c6bbd6b9221f3fce430/Latihan2/Screenshot%20Hasil/C++.png)
+3. PHP</br>
+![SS PHP](https://github.com/zakariasaputra/-LATIHAN2DPBO2022/blob/dd77af5fad731e7d9fe63c6bbd6b9221f3fce430/Latihan2/Screenshot%20Hasil/PHP.png)
+4. Python</br>
+![SS Py](https://github.com/zakariasaputra/-LATIHAN2DPBO2022/blob/dd77af5fad731e7d9fe63c6bbd6b9221f3fce430/Latihan2/Screenshot%20Hasil/Python.png)
 
-![SS Java](https://github.com/zakariasaputra/-LATIHAN2DPBO2022/blob/ed661d015cac3f21c8b5d151b30cd399d23709c1/Java.png)
